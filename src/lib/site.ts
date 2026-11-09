@@ -13,7 +13,7 @@ export const SITE = {
   address:
     "Del Fuente St. PO Commercial Building Door 4. Lower Jasaan Misamis Oriental, Philippines",
   hours: "Monday - Saturday: 7:00 AM - 4:00 PM",
-  geo: { lat: 8.6531983, lng: 124.7526493 },
+  geo: { lat: 8.65319516521008, lng: 124.75327812388453 },
 } as const;
 
 export const NAV_ITEMS = [
