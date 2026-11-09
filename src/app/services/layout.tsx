@@ -16,7 +16,7 @@ export const metadata: Metadata = {
     description,
     url: "/services",
     type: "website",
-    images: [{ url: "/images/og.jpg", width: 1200, height: 630, alt: "PVV Ship Repair Services" }],
+    images: [{ url: "/images/og.jpg", width: 1200, height: 630, alt: "PVV Ship Repair Service" }],
   },
   twitter: { card: "summary_large_image", title, description, images: ["/images/og.jpg"] },
 };
