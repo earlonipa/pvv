@@ -16,7 +16,7 @@
       "binding": "DB",
       "database_name": "pvv-db",
       // Replace with the id printed by `npx wrangler d1 create pvv-db`
-      "database_id": "00000000-0000-0000-0000-000000000000",
+      "database_id": "d8248c6c-332f-49cc-af94-c6d44ba729d2",
       "migrations_dir": "migrations"
     }
   ]
