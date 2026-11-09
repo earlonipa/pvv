@@ -14,9 +14,7 @@ import ContactForm from "@/components/ContactForm";
 import { SITE } from "@/lib/site";
 
 const { lat, lng } = SITE.geo;
-const mapSrc =
-    `https://www.openstreetmap.org/export/embed.html?bbox=${lng - 0.01},${lat - 0.009},${lng + 0.01},${lat + 0.009}` +
-    `&layer=mapnik&marker=${lat},${lng}`;
+const mapSrc = `https://www.google.com/maps?q=${lat},${lng}&output=embed`;
 
 const containerVariants = {
     hidden: { opacity: 0 },
